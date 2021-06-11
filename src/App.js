@@ -102,7 +102,7 @@ function App() {
                 <GroupedBar ChartData={datachart}></GroupedBar>
                 }
             </div>
-            <AdsenseWidget/>
+           
           </div>
           
 
