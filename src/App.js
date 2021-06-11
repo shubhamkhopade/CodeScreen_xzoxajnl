@@ -4,12 +4,12 @@ import {withStyles} from '@material-ui/core/styles';
 import Slider from '@material-ui/core/Slider';
 import Typography from'@material-ui/core/Typography';
 import {Table,TableCell,TableRow} from "@material-ui/core";
-import {Pie, Bar} from "react-chartjs-2";
+import {Pie} from "react-chartjs-2";
 import TableDetails from "./tabledetails";
 import SlideMarks from "./slidemarks";
 import GroupedBar from "./groupedbar";
 import EmiDesign from "./emidesign";
-import AdsenseWidget from "./adsensewidget";
+
 
 
 const PrettoSlider =withStyles({
