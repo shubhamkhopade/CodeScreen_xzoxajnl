@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  align-self: center;
+  padding-left: 250px;
+  background-color: white;
 }
 
 .App-logo {
@@ -36,3 +39,30 @@
     transform: rotate(360deg);
   }
 }
+
+.CalApp{
+  width: 70%;
+  border: 2px #ccc solid;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 10px;
+  background-color: white;
+  align-content: center;
+
+}
+
+.CalHeading{
+  text-align: center;
+  color: red;
+}
+.ETableCellText{
+  background-color: lightgreen;
+  color: brown !important;
+  font-size: 16px !important;
+}
+.ETableCellVal{
+  text-align: right !important;
+  font-size: 18px !important;
+
+}
+
